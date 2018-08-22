@@ -29,4 +29,4 @@ sys.path.append(path.abspath(path.dirname(path.dirname(__file__))))
 from . import settings
 from .isort import SECTION_NAMES, SECTIONS, SortImports
 
-__version__ = "3.9.6"
+__version__ = "4.3.4"
